@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OseghwaSalvation
 - 👀 I’m interested in ...everyone 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...languages 
+- 💞️ I’m looking to collaborate on ...people
 - 📫 How to reach me ...oseghwas@yahoo.com
 
 <!---
